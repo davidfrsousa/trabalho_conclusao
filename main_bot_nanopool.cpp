@@ -30,7 +30,7 @@ uint32_t lastCheckTime = 0;
 #define SENDER_ID_COUNT 1
 
 //IDs de usuários
-String validSenderIds[SENDER_ID_COUNT] = {"1796248229"};
+String validSenderIds[SENDER_ID_COUNT] = {"XXXXXXXXXX"};
 
 boolean validateSender(String senderId)
 {
